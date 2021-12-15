@@ -1,16 +1,5 @@
 # Software-Testing-And-Analysis
 
-CS589 Software Testing and Analysis 
-
-Folder Structure
-|
-|
-|- main (Run the commands from here)
-|	| - main
-|	|      | - accountDriver.java
-|	|      | - account.java   		
-|
-
 Run Instructions
 
 Requirements:
